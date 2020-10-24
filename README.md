@@ -5,4 +5,4 @@ Joining Pymaceuticals Inc. as a senior data analyst for the San Diego based phar
 
 ![alt text][logo]
 
-[logo]: data/LabRat.jpg "Monument to Lab Mice Everywhere"
+[logo]: data/labmouse.jpg "Monument to Lab Mice Everywhere"
